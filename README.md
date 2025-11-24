@@ -22,7 +22,7 @@ A simple web application built with Go and HTMX to demonstrate dynamic content l
 2. Open your web browser and navigate to `http://localhost:8080`
 
 ## Links
-HTMX
-[HTMX website](https://htmx.org/).
-GO
+HTMX - 
+[HTMX website](https://htmx.org/) and 
+GO - 
 [Go website](https://golang.org/).# Go-HTMX
