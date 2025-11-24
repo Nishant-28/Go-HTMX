@@ -25,4 +25,4 @@ A simple web application built with Go and HTMX to demonstrate dynamic content l
 HTMX - 
 [HTMX website](https://htmx.org/) and 
 GO - 
-[Go website](https://golang.org/).# Go-HTMX
+[Go website](https://golang.org/)
